@@ -20,11 +20,27 @@
         },
         {
             "id": "akaza-eyes",
-            "title": "Akaza looking at Tanjiro",
+            "title": "Akaza Looking At Tanjiro",
             "resolution": "3840x2160",
             "file": "wallpapers/anime/AkazaEyes.jpg",
             "author": "Ufotable",
             "originalSource": "Demon Slayer"
+        },
+        {
+            "id": "eva-1-blue",
+            "title": "Eva Unit 1 Blue",
+            "resolution": "1920x1080",
+            "file": "wallpapers/anime/Eva-Unit-1.jpg",
+            "author": "https://www.artofwez.com/",
+            "originalSource": "Demon Slayer"
+        },
+        {
+            "id": "eva-1-red",
+            "title": "Eva Unit 1 Red",
+            "resolution": "1920x975",
+            "file": "wallpapers/anime/Eva-Unit-1-Red.jpg",
+            "author": "Maciej Kuciara",
+            "originalSource": "https://www.artstation.com/maciej"
         }
     ]
 }

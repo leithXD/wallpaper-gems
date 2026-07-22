@@ -17,6 +17,14 @@
             "file": "wallpapers/nature/botanicgarden.png",
             "author": "Studio Ghibli",
             "originalSource": "The Wind Rises - Studio Ghibli"
+        },
+        {
+            "id": "akaza-eyes",
+            "title": "Akaza looking at Tanjiro",
+            "resolution": "3840x2160",
+            "file": "wallpapers/anime/AkazaEyes.jpg",
+            "author": "Ufotable",
+            "originalSource": "Demon Slayer"
         }
     ]
 }

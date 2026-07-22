@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WallpaperGems</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>💎 WallpaperGems</h1>
+
+    <input 
+        id="search"
+        placeholder="Search wallpapers..."
+    >
+
+    <select id="category">
+        <option value="all">All Categories</option>
+    </select>
+</header>
+
+
+<main id="gallery"></main>
+
+
+<div id="viewer">
+    <button id="close">×</button>
+
+    <img id="viewerImage">
+
+    <section>
+        <h2 id="viewerTitle"></h2>
+        <p id="viewerAuthor"></p>
+        <a id="viewerSource" target="_blank">
+            Original Source
+        </a>
+    </section>
+</div>
+
+
+<script src="app.js"></script>
+
+</body>
+</html>
